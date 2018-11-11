@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <name>java-config</name>
 
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <prerequisites>
         <maven>2.2.0</maven>
