@@ -1,4 +1,4 @@
-package com.java.config;
+package co.bh.config;
 
 
 import com.fasterxml.jackson.databind.JsonNode;

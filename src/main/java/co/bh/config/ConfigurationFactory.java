@@ -1,4 +1,4 @@
-package com.java.config;
+package co.bh.config;
 
 import org.apache.commons.io.IOUtils;
 

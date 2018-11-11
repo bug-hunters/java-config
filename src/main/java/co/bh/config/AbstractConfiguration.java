@@ -1,4 +1,4 @@
-package com.java.config;
+package co.bh.config;
 
 import io.swagger.v3.parser.core.models.AuthorizationValue;
 

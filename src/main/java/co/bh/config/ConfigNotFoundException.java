@@ -1,4 +1,4 @@
-package com.java.config;
+package co.bh.config;
 
 public class ConfigNotFoundException extends Exception {
 
