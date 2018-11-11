@@ -1,1 +1,1 @@
-# swagger-config
+# java-config
